@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="600" width="800">
+  <polygon points="70,100 73,100 61,88 78,70 138,70 155,88 155,100 158,100 158,388 155,388 155,400 138,418 78,418 61,400 73,388 70,388" style="fill:white;stroke:black;stroke-width:1" />
+  Sorry, your browser does not support inline SVG.
+</svg>
+</body>
+</html>
